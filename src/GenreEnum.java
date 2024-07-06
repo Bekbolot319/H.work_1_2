@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class GenreEnum {
+public enum GenreEnum {
+
+    ACTION , DRAMA, COMEDY, HORROR,DOCUMENTARY,ANIMATION
 }
